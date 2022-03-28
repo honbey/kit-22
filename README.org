@@ -2,3 +2,8 @@
 
 * Kit-22
 
+
+* Thanks
+
+- [[http://pajhome.org.uk/crypt/md5/index.html][JavaScript MD5]] by [[http://pajhome.org.uk/aboutme/index.html][Paul Johnston]].
+- [[https://bulma.io][Bulma]].
