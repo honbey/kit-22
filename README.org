@@ -1,7 +1,5 @@
 #+TITLE: Kit-22
 
-* Kit-22
-
 
 * Thanks
 
